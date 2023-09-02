@@ -4,15 +4,15 @@ Inspired by tiny_shakespeare, this brings you all the works from the, as a matte
 
 *"Einfachheit ist das Resultat der Reife." - Friedrich Schiller*
 
-![Friedrich Schiller](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dannecker%E2%80%99s_Schiller_bust_%28original%2C_straight_look%29.jpg/800px-Dannecker%E2%80%99s_Schiller_bust_%28original%2C_straight_look%29.jpg)
+![Friedrich Schiller](schiller_thug.gif)
 
+49483 lines or 319649 words or 1685792 characters (excluding spaces) or 1991325 characters (including spaces) of Friedrich Schiller.
 The document comprises of the following works, originally from [Projekt Gutenberg](https://www.projekt-gutenberg.org/autoren/namen/schiller.html).
 
 ## Dramen und begleitende Schriften:
 - Briefe über Don Carlos
 - Aus dem Szenar zum »Demetrius«
 - Demetrius
-- Die Braut von Messina
 - Die Huldigung der Künste
 - Die Jungfrau von Orleans
 - Die Räuber
@@ -21,48 +21,17 @@ The document comprises of the following works, originally from [Projekt Gutenber
 - Kabale und Liebe
 - Maria Stuart
 - Wallenstein
-- Wallenstein (andere Quelle)
 - Wilhelm Tell
 
-## Erzählungen:
-- Der Geisterseher (Fragment)
-- Der Spaziergang unter den Linden
-- Der Verbrecher aus verlorener Ehre
-- Eine großmütige Handlung aus der neuesten Geschichte
-- Geschichten aus dem alten Pitaval
-- Merkwürdiges Beispiel einer weiblichen Rache
-- Spiel des Schicksals
 
-## Historische Schriften:
-- Denkwürdigkeiten aus dem Leben des Marschalls von Vieilleville
-- Die Gesetzgebung des Lykurgus und Solon
-- Die Sendung Moses
-- Die Sendung Moses (andere Quelle)
-- Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde
-- Geschichte der Unruhen in Frankreich, welche der Regierung Heinrichs IV. vorangingen
-- Geschichte des Abfalls der vereinigten Niederlande
-- Geschichte des dreißigjährigen Kriegs
-- Herzog von Alba bei einem Frühstück auf dem Schlosse zu Rudolstadt, im Jahr 1547
-- Ueber Völkerwanderung, Kreuzzüge und Mittelalter
-- Uebersicht des Zustands von Europa zur Zeit des ersten Kreuzzugs
-- Universalhistorische Uebersicht der merkwürdigsten Staatsbegebenheiten zu den Zeiten Kaiser Friedrichs I.
-- Was heißt und zu welchem Ende studiert man Universalgeschichte?
+## Citation
 
-## Philosophische und ästhetische Schriften:
-- Die Schaubühne als eine moralische Anstalt betrachtet
-- Gedanken über den Gebrauch des Gemeinen und Niedrigen in der Kunst
-- Philosophische Briefe
-- Über naive und sentimentalische Dichtung
-- Ueber Anmuth und Würde
-- Ueber das Erhabene
-- Ueber das Pathetische
-- Ueber den Grund des Vergnügens an tragischen Gegenständen
-- Ueber den moralischen Nutzen ästhetischer Sitten
-- Ueber den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen
-- Ueber die ästhetische Erziehung des Menschen
-- Ueber die nothwendigen Grenzen beim Gebrauch schöner Formen
-- Ueber die tragische Kunst
-- Zerstreute Betrachtungen über verschiedene ästhetische Gegenstände
+If you use this work in your research or projects, please cite it as follows:
 
-## Gedichte:
-- Gedichte
+```markdown
+@misc{
+  author={Schutera, Mark},
+  title={tiny_schiller},
+  year={2023},
+  howpublished={\url{https://github.com/schutera/tiny_schiller/blob/main/tiny_schiller.txt}}
+}
